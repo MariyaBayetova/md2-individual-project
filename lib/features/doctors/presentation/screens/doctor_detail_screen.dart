@@ -510,6 +510,10 @@ class DoctorDetailScreen extends ConsumerWidget {
                                 'specialty': specialty,
                                 'fee': fee,
                                 'avatarUrl': avatarUrl,
+                                'about': about,
+              'rating': rating,
+              'experienceYears': experienceYears,
+              'reviewCount': reviewCount,
                               },
                             )
                         : null,
