@@ -51,4 +51,4 @@ ios/Runner/GoogleService-Info.plist
 
 # API Keys and secrets
 .env
-*.key
+*.keylib/firebase_options.dart
