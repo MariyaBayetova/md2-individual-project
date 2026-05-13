@@ -48,12 +48,8 @@ app.*.map.json
 # Firebase configuration files
 android/app/google-services.json
 ios/Runner/GoogleService-Info.plist
-
+lib/firebase_options.dart
 
 # API Keys and secrets
 .env
-<<<<<<< HEAD
-*.keylib/firebase_options.dart
-=======
 *.key
->>>>>>> b5a2feb0b3eae60e364558075de633bc1f26dd0c
